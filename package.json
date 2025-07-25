@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "eslint-plugin-react-dom": "^1.52.3",
+    "eslint-plugin-react-x": "^1.52.3",
     "modern-normalize": "^3.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
