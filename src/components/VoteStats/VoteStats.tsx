@@ -1,5 +1,4 @@
 import styles from './VoteStats.module.css'
-import React from 'react';
 import { type Votes } from '../../types/votes'; 
 
 interface VoteStatsProps {

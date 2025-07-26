@@ -1,5 +1,5 @@
 import css from './CafeInfo.module.css'
-import React from 'react';
+
 
 export default function CafeInfo() {
     return (
